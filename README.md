@@ -2,6 +2,11 @@
 game project
 
 # Credits
-Devs:
--MistrMattChu
--cubic-control
+Section 7 Studios
+
+# Lead Developers
+MistrMattChu
+Cubic-Control
+
+# Graphic Artist
+Molly
