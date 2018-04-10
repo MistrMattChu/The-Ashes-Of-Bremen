@@ -5,7 +5,7 @@ game project
 Section 7 Studios
 
 # Lead Developers
-MistrMattChu
+MistrMattChu,
 Cubic-Control
 
 # Graphic Artist
